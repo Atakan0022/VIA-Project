@@ -23,7 +23,8 @@ Takım X
 - Filmleri türüne göre ayırma
 - Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
 - IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Netflix'te ve Prime'da bulunurluğunu 
+
 
 ## Hedef Kitle
 
