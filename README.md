@@ -40,8 +40,8 @@ Miro üzerinde tüm projenin kurgulanma işlemleri yürütülmüştür. Notion n
 ![ingame4](https://user-images.githubusercontent.com/104384231/167492148-b1cd7995-6727-4aec-922b-9a0dfe9b8189.jpg)
 ![ingame5](https://user-images.githubusercontent.com/104384231/167492153-fe9cc9b0-48d2-4371-8b88-002598edd4d5.jpg)
 ![ingame1](https://user-images.githubusercontent.com/104384231/167492161-9879eee5-3a55-49a2-b820-a7a23c13e9fa.jpg)
-  + DailyScrum Notlarımızı bir metin belgesi içerisinde topladık. Bu belgenin içerisinde günlük yaptığımız görüşmeler, projeye dair içerikler bulunmaktadır. DailyScrum notları aşağıdaki gibidir.
-
+  + DailyScrum Notlarımızı bir metin belgesi içerisinde topladık. Bu belgenin içerisinde günlük yaptığımız görüşmeler, projeye dair içerikler bulunmaktadır. DailyScrum notları aşağıdaki gibidir. Ayrıca Notion üzerinden toplantılarımızın notları ve kararları bulunmaktadır. Bu kararlar Sprint1 Review için önem teşkil etmektedir. Onlara da göz atabilirsiniz [Notion toplantı kararları için tıklayınız](https://www.notion.so/Toplant-Odas-kt-lar-0c925ecd15814ba59a20f1aae36d4c7a).
+  + Daily Scrum Word Dosyası: [Sprint-1 Daily Scrum.docx](https://github.com/Atakan0022/VIA-Project/files/8655169/Sprint-1.Daily.Scrum.docx)
   + Sprint Review olarak aldığımız kararlar şu şekildedir:
     + 1.Sprint daha az görev ve içerikle doluydu. 2.Sprint boyunca daha fazla görev sorumluluk alıp ilerleyeceğiz.
     + 2.Sprint product ve Scrum'dan daha çok ürünün geliştirilmesine yönelik olacak.
