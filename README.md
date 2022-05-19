@@ -11,7 +11,7 @@ VIA
 # Ürün İsmi
 Simurg: Yedi Diyarın Macerası
 # Ürün Açıklaması
-Türk Mitolojisini ve tarihini konu olarak esas alan roguelike bir shoot'em up rol yapma video oyunu.
+Türk Mitolojisini ve Türk Kültürünü konu olarak esas alan roguelike bir shoot'em up rol yapma video oyunu.
 # Ürün Özellikleri
   + Tek oyunculu ve Bilgisayar platformu üzerinden oynanabilecektir.
   + Sürekli gelen canavar dalgalarına karşı otomatik ataklarla saldırabilen bir Shoot'Em Up  ve Roguelike tarzı esas alınmıştır.
