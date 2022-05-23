@@ -50,3 +50,30 @@ Miro üzerinde tüm projenin kurgulanma işlemleri yürütülmüştür. Notion n
     + Tasarım odaklıydık, şimdi işlevsellik boyutunda ürünü geliştirmeye başlayacağız.
   + Sprint 1 Retrospektife dair bir Miro görseli oluşturduk. Son durumu resmetmek adına alınan kararlar ve özellikleri belirtilen şekilde hazırladık. Retrospektif notları aşağıdaki gibidir:
   ![retro](https://user-images.githubusercontent.com/104384231/167491830-43048ead-d9e8-4a84-8ec1-1dcc9a726db4.jpg)
+# Sprint2
+  + İkinci sprint içerisinde çalışmamızda en çok developer çalışmalarına odaklandık. Oyun içinde yapılacakları kodlamak ve tasarlamak üzerine ilerledik.Böylece içeriğimizi aynı anda çoklu olarak yapmak istedik. Sprint 2 için yapılacakları ilk önce planladık.
+ ![miro1](https://user-images.githubusercontent.com/104384231/169903565-4f5b8ad5-7457-40c9-89fe-baf850fc09a3.jpg)
+ ![miro2](https://user-images.githubusercontent.com/104384231/169903555-44b2d1ea-73bb-4147-9c1d-9e7b6f441243.jpg)
+ + 2.Sprintin ilk haftasında bu görevleri tamamladık:
+ ![miro5](https://user-images.githubusercontent.com/104384231/169904308-9fabfc4b-11f1-4413-a8db-b0e3c2f4ab91.jpg)
+  + Sprint 2 için yaptığımız çalışmalar ve görevler aşağıdaki gibidir.
+ ![miro3](https://user-images.githubusercontent.com/104384231/169903823-765c15b5-ad8a-4b22-b87d-bd1a8f5809e8.jpg)
+  + Oyun içi görsellerimiz aşağıdaki gibidir.
+  + 
+![oyu2](https://user-images.githubusercontent.com/104384231/169902965-d6752ec5-8f09-4ad1-b903-19b3e4fcaec3.jpg)
+![oyun1](https://user-images.githubusercontent.com/104384231/169903029-a7c2a358-48a9-4529-a5fc-e909a6c9b56d.jpg)
+![oyun3](https://user-images.githubusercontent.com/104384231/169903034-8c3acbd9-bd3a-467d-9141-3c26899ec534.jpg)
+![oyun4](https://user-images.githubusercontent.com/104384231/169903038-e3cef59b-7175-49e1-8140-aba48b8a9bad.jpg)
+![oyun5](https://user-images.githubusercontent.com/104384231/169903041-f210dcb6-9168-496e-b308-d0fa2551efb6.jpg)
+![oyun6](https://user-images.githubusercontent.com/104384231/169903045-2b2483c6-426b-47a9-a190-75b1d82c5a8b.jpg)
+![oyun7](https://user-images.githubusercontent.com/104384231/169903047-377a67c4-c129-4b1c-82a4-0d38de326d2e.jpg)
+![oyun8](https://user-images.githubusercontent.com/104384231/169903050-d582f80b-d4d2-485d-8dcb-8851ac2cd5eb.jpg)
+![oyun9](https://user-images.githubusercontent.com/104384231/169903053-949046ea-a631-4fe8-bb65-3cff466b379d.jpg)
+![oyun10](https://user-images.githubusercontent.com/104384231/169903055-7f9f0f52-f08b-466f-9a21-b07a90d80303.jpg)
+![oyun11](https://user-images.githubusercontent.com/104384231/169903059-e66b806a-474f-478a-bedc-18c47da243d2.jpg)
+
++ Sprint 2 Retrospektif toplantımızın kararları aşağıdaki gibidir.
+![miro4](https://user-images.githubusercontent.com/104384231/169903949-18b2a59e-74fb-4bfa-a536-df263aaf4c30.jpg)
++ Sprint 2 DailyScrum notlarımız ve toplantı notlarımızla beraber Sprint 2 Review'ı da Word dosyasının içerisinde bulunmaktadır.
++ [Daily Scrum -2.docx](https://github.com/Atakan0022/VIA-Project/files/8757993/Daily.Scrum.-2.docx)
++ [2.Sprint Toplantı Notları.docx](https://github.com/Atakan0022/VIA-Project/files/8757995/2.Sprint.Toplanti.Notlari.docx)
