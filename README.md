@@ -52,6 +52,7 @@ Miro üzerinde tüm projenin kurgulanma işlemleri yürütülmüştür. Notion n
   ![retro](https://user-images.githubusercontent.com/104384231/167491830-43048ead-d9e8-4a84-8ec1-1dcc9a726db4.jpg)
 # Sprint2
   + İkinci sprint içerisinde çalışmamızda en çok developer çalışmalarına odaklandık. Oyun içinde yapılacakları kodlamak ve tasarlamak üzerine ilerledik.Böylece içeriğimizi aynı anda çoklu olarak yapmak istedik. Sprint 2 için yapılacakları ilk önce planladık.
+  + 1. Sprintte projemizin ilk aşaması üzerine ilerleme kat ettikten sonra, genel şablonu oluşturmaya 2.Sprint sürecinde başlamış bulunduk. Kodlama açısında oyunumuzun %90'lık bir kısmını tamamladık. Aynı zamanda tasarım açısından da ilerledik. Süreci yönetmek amacıyla tasarlayacağımız Vadi planını önceki sürece göre daha kısıtlı bir hale getirme kararı alarak tek bir vadi üzerinde yoğunlaştık. Başlangıç aşamasında yalnızca taslak amaçlı oluşturduğumuz diyalog sistemini esaslı hale getirdik. Aynı zamanda oto atak sorununu zaman bağlı hale getirerek giderdik. Bundan sonraki süreçte; 3. Sprint için oyunumuzun verilerini birleştirip sunuş aşamasına geçme kararımıza ilişkin planlarımızı yürütecek adımları atmaya başlamış bulunmaktayız.
  ![miro1](https://user-images.githubusercontent.com/104384231/169903565-4f5b8ad5-7457-40c9-89fe-baf850fc09a3.jpg)
  ![miro2](https://user-images.githubusercontent.com/104384231/169903555-44b2d1ea-73bb-4147-9c1d-9e7b6f441243.jpg)
  + 2.Sprintin ilk haftasında bu görevleri tamamladık:
