@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
-public class Dialogue : MonoBehaviour
+public class Diyalog : MonoBehaviour
 {
     public TextMeshProUGUI textComponent;
-    public string[] lines;
-    public float textSpeed;
+    public string[] satir;
+    public float hiz;
 
     private int index;
 
@@ -15,10 +15,10 @@ public class Dialogue : MonoBehaviour
     void Start()
     {
         textComponent.text = string.Empty;
-        StartDialogue();
+        DiyalogBasla();
     }
 
-    void StartDialogue()
+    void DiyalogBasla()
     {
         index = 0;
         StartCoroutine(TypeLine());
@@ -28,30 +28,30 @@ public class Dialogue : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            if (textComponent.text == lines[index])
+            if (textComponent.text == satir[index])
             {
-                NextLine();
+                SonrakiSatir();
             }
             else
             {
                 StopAllCoroutines();
-                textComponent.text = lines[index];
+                textComponent.text = satir[index];
             }
         }
     }
 
     IEnumerator TypeLine()
     {
-        foreach (char c in lines[index].ToCharArray())
+        foreach (char c in satir[index].ToCharArray())
         {
             textComponent.text += c;
-            yield return new WaitForSeconds(textSpeed);
+            yield return new WaitForSeconds(hiz);
         }
     }
 
-    void NextLine()
+    void SonrakiSatir()
     {
-        if (index < lines.Length - 1)
+        if (index < satir.Length - 1)
         {
             index++;
             textComponent.text = string.Empty;
