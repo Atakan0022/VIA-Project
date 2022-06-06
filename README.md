@@ -81,6 +81,9 @@ Miro üzerinde tüm projenin kurgulanma işlemleri yürütülmüştür. Notion n
 # Sprint 3
 + Oyunun içeriklerin ile dolu uzun bir süreçti. Elimizden geleni yapmaya çalıştık ve sıkı çalıştık. Görev dökümlerimizdeki birçok işi elimizden geldiğince tamamladık. 3.Sprintin sonunda bütün oyunumuzu tamamladık ve içeriklerimizi yükledik.
 + 3.Sprint boyunca yapmayı planladığımız ve varolan iş döküm ve SCRUM listeleri aşağıdaki gibidir. 
+![VIA Mirosu - Scrum Süreci3](https://user-images.githubusercontent.com/104384231/172247511-530daf55-1b8e-43d8-9c66-906280afd7f0.jpg)
+![VIA Mirosu - 3  SPRİNT](https://user-images.githubusercontent.com/104384231/172247391-d906a1e2-ff38-4624-900e-c73354ef2630.jpg)
+![VIA Mirosu - 3  SPRİNT2](https://user-images.githubusercontent.com/104384231/172247435-0d8d0aef-4313-4bf9-a0cc-fe3e06f9b6d5.jpg)
 + Oyuniçi görseller aşağıdaki gibidir.
 ![oyun1](https://user-images.githubusercontent.com/104384231/172239181-6f7cb3b3-d65c-4383-b4ae-f7ec502dcfe9.png)
 ![oyun2](https://user-images.githubusercontent.com/104384231/172239210-0301a33e-257d-407e-8029-c8fa1c0e46cd.png)
@@ -88,6 +91,7 @@ Miro üzerinde tüm projenin kurgulanma işlemleri yürütülmüştür. Notion n
 ![oyun4](https://user-images.githubusercontent.com/104384231/172239297-215d32ff-30c3-440b-a0c3-e26df8cdb5c8.png)
 ![oyun5](https://user-images.githubusercontent.com/104384231/172239321-346384ce-cbdb-4fd5-bacf-ade078034896.png)
 + Sprint 3 DAilySCRUM notları dosyası aşağıdaki gibidir.
-+DAİLYSCRUM BURAYA GELECEK.
+[Daily_Scrum_-3.docx](https://github.com/Atakan0022/VIA-Project/files/8847916/Daily_Scrum_-3.docx)
 + Sprint3 Retrospektifi ve Review toplantı notları aşağıdaki gibidir.
-+ 
+[3.Sprint Toplantı Notları.docx](https://github.com/Atakan0022/VIA-Project/files/8847926/3.Sprint.Toplanti.Notlari.docx)
+![VIA Mirosu - 3 Sprint Retrospektif](https://user-images.githubusercontent.com/104384231/172247433-01435bfd-ac9f-4792-9e11-1ad6fde2caaa.jpg)
