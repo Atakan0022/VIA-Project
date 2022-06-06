@@ -78,3 +78,16 @@ Miro üzerinde tüm projenin kurgulanma işlemleri yürütülmüştür. Notion n
 + Sprint 2 DailyScrum notlarımız ve toplantı notlarımızla beraber Sprint 2 Review'ı da Word dosyasının içerisinde bulunmaktadır.
 + [Daily Scrum -2.docx](https://github.com/Atakan0022/VIA-Project/files/8757993/Daily.Scrum.-2.docx)
 + [2.Sprint Toplantı Notları.docx](https://github.com/Atakan0022/VIA-Project/files/8757995/2.Sprint.Toplanti.Notlari.docx)
+# Sprint 3
++ Oyunun içeriklerin ile dolu uzun bir süreçti. Elimizden geleni yapmaya çalıştık ve sıkı çalıştık. Görev dökümlerimizdeki birçok işi elimizden geldiğince tamamladık. 3.Sprintin sonunda bütün oyunumuzu tamamladık ve içeriklerimizi yükledik.
++ 3.Sprint boyunca yapmayı planladığımız ve varolan iş döküm ve SCRUM listeleri aşağıdaki gibidir. 
++ Oyuniçi görseller aşağıdaki gibidir.
+![oyun1](https://user-images.githubusercontent.com/104384231/172239181-6f7cb3b3-d65c-4383-b4ae-f7ec502dcfe9.png)
+![oyun2](https://user-images.githubusercontent.com/104384231/172239210-0301a33e-257d-407e-8029-c8fa1c0e46cd.png)
+![oyun3](https://user-images.githubusercontent.com/104384231/172239246-4e630926-5827-4d21-b8dc-54f57fb200f2.png)
+![oyun4](https://user-images.githubusercontent.com/104384231/172239297-215d32ff-30c3-440b-a0c3-e26df8cdb5c8.png)
+![oyun5](https://user-images.githubusercontent.com/104384231/172239321-346384ce-cbdb-4fd5-bacf-ade078034896.png)
++ Sprint 3 DAilySCRUM notları dosyası aşağıdaki gibidir.
++DAİLYSCRUM BURAYA GELECEK.
++ Sprint3 Retrospektifi ve Review toplantı notları aşağıdaki gibidir.
++ 
