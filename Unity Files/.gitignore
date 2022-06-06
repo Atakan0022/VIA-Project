@@ -1,0 +1,78 @@
+
+# https://www.toptal.com/developers/gitignore/api/unity tarafından düzenlendi
+# https://www.toptal.com/developers/gitignore?templates=unity adresinde düzenleyin
+
+### Birlik ###
+# Bu .gitignore dosyası, Unity proje dizininizin kök dizinine yerleştirilmelidir.
+#
+# https://github.com/github/gitignore/blob/main/Unity.gitignore adresinden en son bilgileri alın
+DeleteMeDemo/[Ll]kütüphane/
+DeleteMeDemo/[Tt]emp/
+DeleteMeDemo/[Oo]bj/
+DeleteMeDemo/[Bb]uild/
+DeleteMeDemo/[Bb]uilds/
+DeleteMeDemo/[Ll]ogs/
+DeleteMeDemo/[Uu]ser[S]ayarları/
+
+# MemoryCaptures aşırı boyuta sahip olabilir.
+# Ayrıca son derece hassas veriler içerebilirler
+DeleteMeDemo/[Mm]emoryCaptures/
+
+# Kayıtların boyutu aşırı olabilir
+DeleteMeDemo/[Rr]kayıtlar/
+
+# Varlık deposu araçları eklentisini yoksaymak istiyorsanız bu satırın yorumunu kaldırın
+# /[Aa]varlıklar/AssetStoreTools*
+
+# Otomatik oluşturulmuş Jetbrains Rider eklentisi
+DeleteMeDemo/[Aa]ssets/Eklentiler/Editör/JetBrains*
+
+# Visual Studio önbellek dizini
+.vs/
+
+# Gradle önbellek dizini
+.gradle/
+
+# Otomatik oluşturulan VS/MD/Consulo çözümü ve proje dosyaları
+Dışa AktarılanObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.kullanıcı
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D tarafından oluşturulan meta dosyalar
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D, kilitlenme raporlarında oluşturulan dosya
+sysinfo.txt
+
+# Yapılar
+*.apk
+*.aab
+*.unitypackage
+*.uygulama
+
+# Crashlytics tarafından oluşturulan dosya
+crashlytics-build.properties
+
+# Paketli Adreslenebilirler
+DeleteMeDemo/[Aa]sets/[Aa]adreslenebilir[Aa]ssets[Dd]ata/*/*.bin*
+
+# Geçici olarak otomatik oluşturulan Android Varlıkları
+DeleteMeDemo/[Aa]ssets/[Ss]treamingAssets/aa.meta
+DeleteMeDemo/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# https://www.toptal.com/developers/gitignore/api/unity'nin sonu
